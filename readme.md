@@ -51,7 +51,8 @@ Zobacz nasze portfolio (link do [flamecode.pl](https://flamecode.pl) lub osobnej
 Masz pomysł? Potrzebujesz wsparcia technicznego lub graficznego?  
 Skontaktuj się z nami:
 
-- 🌐 [flamecode.pl](https://flamecode.pl)  
+- 🌐 [flamecode.pl](https://flamecode.pl)
+- discord [discord.gg/flamecode](https://discord.com/invite/flamecode)
 - ✉️ kontakt@flamecode.pl  
 - 📸 Instagram / Twitter / Discord (linki w stopce strony)
 
