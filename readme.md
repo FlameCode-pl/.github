@@ -39,7 +39,7 @@ Od linijki kodu po trailer z prawdziwym pazurem.
 
 Zobacz nasze portfolio (link do [flamecode.pl](https://flamecode.pl) lub osobnej zakładki w repozytorium), gdzie znajdziesz:
 
-- Custom CMS dla małych firm  
+- Custom CMS dla firm  
 - Logo dla streamerów i youtuberów  
 - Cinematic trailer do serwera Minecraft  
 - Bot Discord do zarządzania społecznością
@@ -54,7 +54,6 @@ Skontaktuj się z nami:
 - 🌐 [flamecode.pl](https://flamecode.pl)
 - discord [discord.gg/flamecode](https://discord.com/invite/flamecode)
 - ✉️ kontakt@flamecode.pl  
-- 📸 Instagram / Twitter / Discord (linki w stopce strony)
 
 ---
 
@@ -66,4 +65,4 @@ Oferujemy elastyczne formy współpracy — jednorazowe zlecenia, stałe pakiety
 
 ---
 
-> 🔥 FlameCode.pl — Technologia. Design. Emocje.
+> 🔥 FlameCode.pl — Technologia. Design. Zmiany.
